@@ -1,0 +1,51 @@
+/* Fonts Starts */
+.font-family-hel{font-family:helvetica;}
+.font-family-ptsans{font-family:'PTSansRegular', helvetica, sans-serif;}
+.font-family-latha{font-family:'Latha';}
+.font-family-panchali{font-family:Panchali;}
+@font-face {
+	font-family:'PTSansRegular', helvetica, sans-serif;
+	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.eot');
+	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.woff') format('woff'),
+	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.ttf') format('truetype'),
+	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.svg#PTSansRegular') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+    font-family:'robotoregular';
+    src: url('http://www.vikatan.com/static/css/fonts/Roboto-Regular-webfont.eot');
+    src: url('http://www.vikatan.com/static/css/fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.vikatan.com/static/css/fonts/Roboto-Regular-webfont.woff') format('woff'),
+         url('http://www.vikatan.com/static/css/fonts/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('http://www.vikatan.com/static/css/fonts/Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:'Latha';
+    src: url('http://www.vikatan.com/static/css/fonts/Latha.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family:taun_elango_abiramiregular;
+	src: url('http://www.vikatan.com/static/css/fonts/taun_elango_abirami.eot');
+	src: url('http://www.vikatan.com/static/css/fonts/taun_elango_abirami.eot?#iefix') format('embedded-opentype'), url('http://www.vikatan.com/static/css/fonts/taun_elango_abirami.woff') format('woff'), url('http://www.vikatan.com/static/css/fonts/taun_elango_abirami.ttf') format('truetype'), url('http://www.vikatan.com/static/css/fonts/taun_elango_abirami.svg#taun_elango_abiramiregular') format('svg');
+	font-weight: 400;
+	font-style: normal
+}
+@font-face {
+	font-family:Kamban;
+	src: url('http://www.vikatan.com/static/css/fonts/taun_elango_kamban.eot');
+	src: url('http://www.vikatan.com/static/css/fonts/taun_elango_kamban.eot') format('embedded-opentype'), url('http://www.vikatan.com/static/css/fonts/taun_elango_kamban.woff') format('woff'), url('http://www.vikatan.com/static/css/fonts/taun_elango_kamban.ttf') format('truetype'), url('http://www.vikatan.com/static/css/fonts/taun_elango_kamban.svg') format('svg')
+}
+@font-face {
+	font-family:Panchali;
+	src: url('http://www.vikatan.com/static/css/fonts/panchali.eot');
+	src: url('http://www.vikatan.com/static/css/fonts/panchali.eot?#iefix') format('embedded-opentype'), url('http://www.vikatan.com/static/css/fonts/panchali.woff') format('woff'), url('http://www.vikatan.com/static/css/fonts/panchali.ttf') format('truetype'), url('http://www.vikatan.com/static/css/fonts/panchali.svg#panchaliregular') format('svg');
+	font-weight: 400;
+	font-style: normal
+}
+/* Fonts Ends */
