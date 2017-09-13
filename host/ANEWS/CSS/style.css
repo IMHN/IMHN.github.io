@@ -1,16 +1,7 @@
-/* Fonts Starts */
-.font-family-hel{font-family:helvetica;}
-.font-family-ptsans{font-family:'PTSansRegular', helvetica, sans-serif;}
-.font-family-latha{font-family:'Latha';}
-.font-family-panchali{font-family:Panchali;}
 @font-face {
-	font-family:'PTSansRegular', helvetica, sans-serif;
-	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.eot');
-	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.eot?#iefix') format('embedded-opentype'),
-	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.woff') format('woff'),
-	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.ttf') format('truetype'),
-	url('https://imhn.github.io/host/ANEWS/CSS/Fonts/PTS55F-webfont.svg#PTSansRegular') format('svg');
-	font-weight:normal;
-	font-style:normal;
+	font-family:Panchali;
+	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/panchali/panchali.eot');
+	src: url('https://imhn.github.io/host/ANEWS/CSS/Fonts/panchali/panchali.eot?#iefix') format('embedded-opentype'), url('https://imhn.github.io/host/ANEWS/CSS/Fonts/panchali/panchali.woff') format('woff'), url('https://imhn.github.io/host/ANEWS/CSS/Fonts/panchali/panchali.ttf') format('truetype'), url('https://imhn.github.io/host/ANEWS/CSS/Fonts/panchali/panchali.svg#panchaliregular') format('svg');
+	font-weight: 400;
+	font-style: normal
 }
-/* Fonts Ends */
